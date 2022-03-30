@@ -1,0 +1,17 @@
+C:\Users\shers\source\repos\Hilo.Calculatrice.ConsoleApp\Hilo.Calculatrice.ConsoleApp\obj\Debug\netcoreapp3.1\Hilo.Calculatrice.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\shers\source\repos\Hilo.Calculatrice.ConsoleApp\Hilo.Calculatrice.ConsoleApp\obj\Debug\netcoreapp3.1\Hilo.Calculatrice.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shers\source\repos\Hilo.Calculatrice.ConsoleApp\Hilo.Calculatrice.ConsoleApp\obj\Debug\netcoreapp3.1\Hilo.Calculatrice.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\shers\source\repos\Hilo.Calculatrice.ConsoleApp\Hilo.Calculatrice.ConsoleApp\obj\Debug\netcoreapp3.1\Hilo.Calculatrice.ConsoleApp.AssemblyInfo.cs
+C:\Users\shers\source\repos\Hilo.Calculatrice.ConsoleApp\Hilo.Calculatrice.ConsoleApp\obj\Debug\netcoreapp3.1\Hilo.Calculatrice.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\shers\source\repos\Hilo.Calculatrice.ConsoleApp\Hilo.Calculatrice.ConsoleApp\bin\Debug\netcoreapp3.1\Hilo.Calculatrice.ConsoleApp.exe
+C:\Users\shers\source\repos\Hilo.Calculatrice.ConsoleApp\Hilo.Calculatrice.ConsoleApp\bin\Debug\netcoreapp3.1\Hilo.Calculatrice.ConsoleApp.deps.json
+C:\Users\shers\source\repos\Hilo.Calculatrice.ConsoleApp\Hilo.Calculatrice.ConsoleApp\bin\Debug\netcoreapp3.1\Hilo.Calculatrice.ConsoleApp.runtimeconfig.json
+C:\Users\shers\source\repos\Hilo.Calculatrice.ConsoleApp\Hilo.Calculatrice.ConsoleApp\bin\Debug\netcoreapp3.1\Hilo.Calculatrice.ConsoleApp.runtimeconfig.dev.json
+C:\Users\shers\source\repos\Hilo.Calculatrice.ConsoleApp\Hilo.Calculatrice.ConsoleApp\bin\Debug\netcoreapp3.1\Hilo.Calculatrice.ConsoleApp.dll
+C:\Users\shers\source\repos\Hilo.Calculatrice.ConsoleApp\Hilo.Calculatrice.ConsoleApp\bin\Debug\netcoreapp3.1\Hilo.Calculatrice.ConsoleApp.pdb
+C:\Users\shers\source\repos\Hilo.Calculatrice.ConsoleApp\Hilo.Calculatrice.ConsoleApp\obj\Debug\netcoreapp3.1\Hilo.Calculatrice.ConsoleApp.dll
+C:\Users\shers\source\repos\Hilo.Calculatrice.ConsoleApp\Hilo.Calculatrice.ConsoleApp\obj\Debug\netcoreapp3.1\Hilo.Calculatrice.ConsoleApp.pdb
+C:\Users\shers\source\repos\Hilo.Calculatrice.ConsoleApp\Hilo.Calculatrice.ConsoleApp\obj\Debug\netcoreapp3.1\Hilo.Calculatrice.ConsoleApp.genruntimeconfig.cache
+C:\Users\shers\source\repos\Hilo.Calculatrice.ConsoleApp\Hilo.Calculatrice.ConsoleApp\bin\Debug\netcoreapp3.1\Hilo.Calculatrice.Domain.dll
+C:\Users\shers\source\repos\Hilo.Calculatrice.ConsoleApp\Hilo.Calculatrice.ConsoleApp\bin\Debug\netcoreapp3.1\Hilo.Calculatrice.Domain.pdb
+C:\Users\shers\source\repos\Hilo.Calculatrice.ConsoleApp\Hilo.Calculatrice.ConsoleApp\obj\Debug\netcoreapp3.1\Hilo.Calculatrice.ConsoleApp.csproj.CopyComplete

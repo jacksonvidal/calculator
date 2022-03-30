@@ -1,0 +1,10 @@
+C:\Users\shers\source\repos\Hilo.Calculatrice.ConsoleApp\Hilo.Calculatrice.Domain\bin\Debug\netcoreapp3.1\Hilo.Calculatrice.Domain.deps.json
+C:\Users\shers\source\repos\Hilo.Calculatrice.ConsoleApp\Hilo.Calculatrice.Domain\bin\Debug\netcoreapp3.1\Hilo.Calculatrice.Domain.dll
+C:\Users\shers\source\repos\Hilo.Calculatrice.ConsoleApp\Hilo.Calculatrice.Domain\bin\Debug\netcoreapp3.1\Hilo.Calculatrice.Domain.pdb
+C:\Users\shers\source\repos\Hilo.Calculatrice.ConsoleApp\Hilo.Calculatrice.Domain\obj\Debug\netcoreapp3.1\Hilo.Calculatrice.Domain.csproj.AssemblyReference.cache
+C:\Users\shers\source\repos\Hilo.Calculatrice.ConsoleApp\Hilo.Calculatrice.Domain\obj\Debug\netcoreapp3.1\Hilo.Calculatrice.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shers\source\repos\Hilo.Calculatrice.ConsoleApp\Hilo.Calculatrice.Domain\obj\Debug\netcoreapp3.1\Hilo.Calculatrice.Domain.AssemblyInfoInputs.cache
+C:\Users\shers\source\repos\Hilo.Calculatrice.ConsoleApp\Hilo.Calculatrice.Domain\obj\Debug\netcoreapp3.1\Hilo.Calculatrice.Domain.AssemblyInfo.cs
+C:\Users\shers\source\repos\Hilo.Calculatrice.ConsoleApp\Hilo.Calculatrice.Domain\obj\Debug\netcoreapp3.1\Hilo.Calculatrice.Domain.csproj.CoreCompileInputs.cache
+C:\Users\shers\source\repos\Hilo.Calculatrice.ConsoleApp\Hilo.Calculatrice.Domain\obj\Debug\netcoreapp3.1\Hilo.Calculatrice.Domain.dll
+C:\Users\shers\source\repos\Hilo.Calculatrice.ConsoleApp\Hilo.Calculatrice.Domain\obj\Debug\netcoreapp3.1\Hilo.Calculatrice.Domain.pdb
